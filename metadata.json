@@ -1,0 +1,8 @@
+{
+  "name": "Electromagnetic Wave Propagation Simulator",
+  "description": "Interactive simulator for electromagnetic wave propagation at dielectric interfaces, featuring Snell's law, Fresnel coefficients, Brewster angle, and total internal reflection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
